@@ -1,0 +1,6 @@
+README
+
+After make file
+need to inject the dylib using insert_dydlib
+
+~/Documents/ios-dev/Tyilo-tools/insert_dylib/build/Release/insert_dydlib <xxx.dylib> main executable
